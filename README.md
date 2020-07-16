@@ -10,6 +10,8 @@ So let's introduce Cody:
 ![6_1|690x197](export/cody_color_whiteborder.png)
 ![7_1|690x197](export/cody_transparentborder.png)
 
+Please notice, that the last version has NO border.
+
 Cute little guy, right? How about a black/white or white/black version? Okay!
 
 ![1_1|690x197](export/cody_bw.png)
