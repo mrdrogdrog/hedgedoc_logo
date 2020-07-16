@@ -27,4 +27,4 @@ Sure these drafts aren't perfect, but if you like any of them, i'm gonna do my b
 
 All logos are made from scratch with :heart: and inkscape.
 
-Hope you like it :slight_smile: 
+Hope you like it! :) 
